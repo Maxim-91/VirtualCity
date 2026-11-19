@@ -105,35 +105,24 @@ public class pLab_GeoPositionCharacter : MonoBehaviour {
         }
     }
 
-    void Start() {
-
-        Debug.LogError("FROSTBIT START");
+    void Start()
+    {
+        //Debug.LogError("FROSTBIT START");
         objectTransform = transform;
         XRSettings.enabled = false;
         desiredPos = objectTransform.position;
 
-        if(startPosition == Vector3.zero){
-            startPosition = transform.position;
-        }
-
-        if (desiredPos == Vector3.zero) {
-            desiredPos = transform.position;
-        }
-
-        if (newPos == Vector3.zero) {
-            newPos = transform.position;
-        }
+        if (startPosition == Vector3.zero) startPosition = transform.position;
+        if (desiredPos == Vector3.zero) desiredPos = transform.position;
+        if (newPos == Vector3.zero) newPos = transform.position;
     }
 
 
     private void OnEnable() {
-        if (locationProvider != null) {
+        if (locationProvider != null)
+        {
             locationProvider.OnLocationUpdated += OnLocationUpdated;
-
-            if (geoCharacterMoveType == GeoCharacterMoveType.EGps) {
-                TeleportToLocation(locationProvider.Location);
-            }
-
+            if (geoCharacterMoveType == GeoCharacterMoveType.EGps) TeleportToLocation(locationProvider.Location);
         }
 
     }
