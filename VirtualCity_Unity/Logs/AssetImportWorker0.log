@@ -1469,3 +1469,11 @@ Memory consumption went from 109.0 MB to 107.9 MB.
 Total: 74.900000 ms (FindLiveObjects: 0.253800 ms CreateObjectMapping: 0.158500 ms MarkObjects: 73.255400 ms  DeleteObjects: 1.230600 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 1451.859931 seconds.
+  path: Assets/Geo/pLab_LocationProvider.cs
+  artifactKey: Guid(fca3e3cfb2a8595439cdbb169e0c1d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Geo/pLab_LocationProvider.cs using Guid(fca3e3cfb2a8595439cdbb169e0c1d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92c2d16cadb920475da705c5191ed119') in 0.0172449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
