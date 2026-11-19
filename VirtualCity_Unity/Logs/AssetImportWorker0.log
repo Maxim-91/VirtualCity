@@ -1477,3 +1477,107 @@ Received Import Request.
 Start importing Assets/Geo/pLab_LocationProvider.cs using Guid(fca3e3cfb2a8595439cdbb169e0c1d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '92c2d16cadb920475da705c5191ed119') in 0.0172449 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
 
+========================================================================
+Received Import Request.
+  Time since last request: 1144.057488 seconds.
+  path: Assets/Resources/bush1.prefab
+  artifactKey: Guid(ba60d6f6dd75b984fbceefb31ea8b96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/bush1.prefab using Guid(ba60d6f6dd75b984fbceefb31ea8b96c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dc010dc929fe7c6cc23e311e4d322904') in 0.5259956 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Resources/tree2.prefab
+  artifactKey: Guid(9512843a98643224cb933acd4c5aab9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tree2.prefab using Guid(9512843a98643224cb933acd4c5aab9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'abf995db0cd933fae9c1a6f26c4f2d50') in 0.0414777 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Resources/tree8.prefab
+  artifactKey: Guid(31d0d8569628dd04494e6b8daae9f96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tree8.prefab using Guid(31d0d8569628dd04494e6b8daae9f96e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0494c9befcf7781a621ad4a06687cdae') in 0.0402459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Resources/tombstones3.prefab
+  artifactKey: Guid(44f52451ea0409f4e841a9595d76d66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tombstones3.prefab using Guid(44f52451ea0409f4e841a9595d76d66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '268573416db676f2dd0083565c15f02b') in 0.0464328 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Resources/tree10.prefab
+  artifactKey: Guid(28a5c6d432584fe40b5a8e9a2a67afc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tree10.prefab using Guid(28a5c6d432584fe40b5a8e9a2a67afc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d821b59bf44a433003ef9594b53e5c9') in 0.0407808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Resources/tree4.prefab
+  artifactKey: Guid(ff0ff814d0e60f945aa2be26c282824d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tree4.prefab using Guid(ff0ff814d0e60f945aa2be26c282824d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '58b536e5665323292641fd0933a880c0') in 0.0460762 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Resources/tree1.prefab
+  artifactKey: Guid(5f586d5a2f95814478585bd7800c7022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tree1.prefab using Guid(5f586d5a2f95814478585bd7800c7022) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd08051cf475d6194600c79237beeb056') in 0.0409796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Resources/tree5.prefab
+  artifactKey: Guid(ff4f4d06f88ce9549a738087d79839cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tree5.prefab using Guid(ff4f4d06f88ce9549a738087d79839cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee09ed025f4fe79754ef2acb990f6f3d') in 0.0432571 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Resources/tombstones2.prefab
+  artifactKey: Guid(7f79d0fa5eb0f5e4483abfa0200fcb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/tombstones2.prefab using Guid(7f79d0fa5eb0f5e4483abfa0200fcb99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b8d597bcc8c0988f2b4412085b852c88') in 0.0296621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.429234 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(64e8313d70768ff4788e169b91bb2acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(64e8313d70768ff4788e169b91bb2acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7afd6197ee663577e12d64b6a329eeee') in 0.0006931 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.234083 seconds.
+  path: Assets/Examples
+  artifactKey: Guid(f9524c3eb30581740a24a4086dcea46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples using Guid(f9524c3eb30581740a24a4086dcea46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2ca60b65d295d8ea3a787be9c4193636') in 0.0006493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099943 seconds.
+  path: Assets/Examples/OSMDATA_ExampleScene.asset
+  artifactKey: Guid(33b11e6429df55142ad1b0946b1e4fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Examples/OSMDATA_ExampleScene.asset using Guid(33b11e6429df55142ad1b0946b1e4fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2de5b62585cae7da9d4b14c7171d4abd') in 0.0696524 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.964266 seconds.
+  path: Assets/Geo
+  artifactKey: Guid(4e75b5b0b67fa9a48ba4e7a293570c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Geo using Guid(4e75b5b0b67fa9a48ba4e7a293570c9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52b00d95cfb9e130b779a0cccdc55685') in 0.0006308 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
